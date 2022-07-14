@@ -2,15 +2,15 @@ package com.ejercicio;
 
 public class Tema_3 {
     public static void main(String[] args) {
-        /***************
+        /* **************
         * Primera parte
-        ****************/
+        * ***************/
         int sumaNumeros = Suma(10, 20, 30);
         System.out.println("(1ra parte) La suma es: " + sumaNumeros);
 
-        /***************
+        /* **************
         * Segunda parte (Ejecutaremos 2 incrementos)
-        ***************/
+        * **************/
         Coche miCoche = new Coche();
 
         // 1er incremento
